@@ -2,7 +2,7 @@
   "en": {
          "help_description": "إظهار رسالة المساعدة",
          "reset_description": "لمسح محفوظات الدردشة",
-         "image_description": "إنشاء صورة من خلال  الذكاء الاصطناعي (على سبيل المثال /image cat)",
+         "image_description": "إنشاء صورة من خلال  الذكاء الاصطناعي (مثال /image cat)",
          "stats_description":"احصل على إحصائيات الاستخدامك",
          "resend_description": "إعادة إرسال الرسالة الأخيرة",
          "chat_description": "الدردشة مع الروبوت!",
